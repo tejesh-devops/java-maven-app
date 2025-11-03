@@ -7,7 +7,7 @@
     <groupId>com.example</groupId>
     <artifactId>java-maven-app</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>Java Maven App</name>
 
@@ -39,7 +39,7 @@
             <!-- Create executable JAR file -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-jar-plugin</artifactId>
+                <artifactId>maven-war-plugin</artifactId>
                 <version>3.2.0</version>
                 <configuration>
                     <archive>
