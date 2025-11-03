@@ -1,16 +1,16 @@
 package com.example;
 
+import java.io.*;
 import jakarta.servlet.*;
 import jakarta.servlet.http.*;
-import java.io.*;
 
 public class HelloServlet extends HttpServlet {
-
     @Override
-    protected void doGet(HttpServletRequest request, HttpServletResponse response)
+    protected void doGet(HttpServletRequest req, HttpServletResponse resp)
             throws ServletException, IOException {
-        response.setContentType("text/html");
-        PrintWriter out = response.getWriter();
-        out.println("<h2>Hello from Java Maven Web App!</h2>");
+        resp.setContentType("text/html");
+        PrintWriter out = resp.getWriter();
+        out.println("<h1>Hello from HelloServlet!</h1>");
     }
 }
+

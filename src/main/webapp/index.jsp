@@ -1,8 +1,7 @@
 <html>
-  <head><title>Welcome</title></head>
   <body>
-    <h1>Welcome to Java Maven Web App</h1>
-    <a href="hello">Say Hello</a>
+    <h2>Welcome to Java Maven Web App!</h2>
+    <p><a href="hello">Click here to access HelloServlet</a></p>
   </body>
 </html>
 
