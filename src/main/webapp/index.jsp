@@ -18,6 +18,8 @@
         <input type="password" name="password" required><br><br>
 	<label>phonenumber:</label>
         <input type="phonenumber" name="phonenumber" required><br><br>
+	<label>your State:</label>
+        <input type="State" name="phonenumber" required><br><br>
 
         <input type="submit" value="Register">
     </form>
