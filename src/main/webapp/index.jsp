@@ -15,11 +15,16 @@
         <input type="email" name="email" required><br><br>
 
         <label>Password:</label>
-        <input type="password" name="password" required><br><br>
+        <input type="password" name="password" required><br><br
+	>
 	<label>phonenumber:</label>
-        <input type="phonenumber" name="phonenumber" required><br><br>
+	<input type="phonenumber" name="phonenumber" required><br><br>
+	
 	<label>your State:</label>
         <input type="State" name="phonenumber" required><br><br>
+
+	label>your gender:</label>
+        <input type="State" name="gender" required><br><br>
 
         <input type="submit" value="Register">
     </form>
