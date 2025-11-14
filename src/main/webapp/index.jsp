@@ -27,6 +27,8 @@
         <input type="State" name="gender" required><br><br>
 
         <input type="submit" value="Register">
+	<input type="submit" value="thank you`">
+
     </form>
 </body>
 </html>
