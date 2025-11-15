@@ -23,11 +23,8 @@
 	<label>your State:</label>
         <input type="State" name="phonenumber" required><br><br>
 
-	label>your gender:</label>
-        <input type="State" name="gender" required><br><br>
 
         <input type="submit" value="Register">
-	<input type="submit" value="thank you`">
 
     </form>
 </body>
