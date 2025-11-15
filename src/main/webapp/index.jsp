@@ -23,6 +23,9 @@
 	<label> State:</label>
         <input type="State" name="state" required><br><br>
 
+	<label> country:</label>
+        <input type="country" name="country" required><br><br>
+
 
         <input type="submit" value="Register">
 
