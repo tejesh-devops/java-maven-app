@@ -20,8 +20,8 @@
 	<label>phonenumber:</label>
 	<input type="phonenumber" name="phonenumber" required><br><br>
 	
-	<label>your State:</label>
-        <input type="State" name="phonenumber" required><br><br>
+	<label> State:</label>
+        <input type="State" name="state" required><br><br>
 
 
         <input type="submit" value="Register">
