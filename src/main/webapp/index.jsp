@@ -26,6 +26,9 @@
 	<label> country:</label>
         <input type="country" name="country" required><br><br>
 
+	<label> gender:</label>
+        <input type="gender" name="gender" required><br><br>
+
 
         <input type="submit" value="Register">
 
