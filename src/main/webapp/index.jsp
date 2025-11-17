@@ -16,7 +16,10 @@
 
         <label>Password:</label>
         <input type="password" name="password" required><br><br
-	>
+
+        <label>Confirm Password:</label>
+        <input type="password" name="Confirm password" required><br><br			       
+	
 	<label>phonenumber:</label>
 	<input type="phonenumber" name="phonenumber" required><br><br>
 	
