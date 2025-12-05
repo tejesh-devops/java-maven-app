@@ -20,7 +20,7 @@
   <repositories>
     <repository>
       <id>myrepo</id>
-      <url>http://172.17.204.58:8081/repository/maven-public/</url>
+      <url>http://172.17.204.58:8081/repository/myrepo/</url>
     </repository>
   </repositories>
 
