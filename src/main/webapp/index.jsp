@@ -32,6 +32,9 @@
 	<label> gender:</label>
         <input type="gender" name="gender" required><br><br>
 
+    <label> others:</label>
+        <input type="others" name="others" required><br><br>
+
 
         <input type="submit" value="Register">
 
